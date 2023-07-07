@@ -2,7 +2,7 @@ This is a AFK Checker & a HOUR Counter for u lazy fucks who don't wanna count ma
 -
 Yersuh Made This / @outflexed <- add me if you have any problems with this Python File
 -
-Python Required : 3.8.9
+Python Required : 3.8.9 <- Install To Path
 
 Download : https://www.python.org/downloads/release/python-389/
 
